@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumyadip Tikader
+- 👋 Hi, I’m @ST
 - 👀 I’m interested in Data Science,Machine Learning,Deep Learning,Artificial Intelligence
 - 🌱 I’m currently pursuing Bachelor's degree in Data Science
 - 💞️ I’m looking to collaborate on ...
