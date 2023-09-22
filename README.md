@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumyadip Tikader
 - 👀 I’m interested in Data Science,Machine Learning,Deep Learning,Artificial Intelligence
-- 🌱 I have a Bachelor's degree in Data Science
+- 🌱 I am persuiang Master's degree in Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at: soumyadiptikader@gmail.com
 
