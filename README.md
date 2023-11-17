@@ -46,6 +46,8 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </a>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/>
 </a>
+ <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="tensorflow" width="80" height="80"/>
+</a>
 </p>
 <p><img align="left" 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadip07&show_icons=true&locale=en&layout=compact"
