@@ -8,7 +8,7 @@ Insights</h3>
 src="https://komarev.com/ghpvc/?username=soumyadip07&label=Profile%20views&color=0e75b6&style=flat"
  alt="soumyadip07" /> </p>
 
-- 🔭 I’m currently working on **Visibility Prediction Model**
+- 🔭 I’m currently working on ** **
 
 - 🌱 I’m currently learning **Statistics,Machine Learning**
 
