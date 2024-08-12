@@ -10,11 +10,11 @@ src="https://komarev.com/ghpvc/?username=soumyadip07&label=Profile%20views&color
 
 - 🔭 I’m currently working on **Road Damge Detection and Classification using Deep Learning Algorithms**
 
-- 🌱 I’m currently learning **Statistics,Machine Learning**
+- 🌱 I’m currently learning **Deep Learning, Image Classification, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soumyadip07](https://github.com/Soumyadip07)
 
-- 💬 Ask me about **Data Visualization,EDA**
+- 💬 Ask me about **Data Visualization,EDA, Machine Learning**
 
 - 📫 How to reach me **soumyadiptikader@gmail.com**
 
