@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumyadip Tikader</h1>
 <h3
- align="center">An aspiring Data Scientist from India|Passionate 
+ align="center">An aspiring Data Professional from India|Passionate 
 About Unlocking Insights|Transforming Raw Data into Informed 
 Insights</h3>
 
