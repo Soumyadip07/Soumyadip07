@@ -17,7 +17,7 @@ src="https://komarev.com/ghpvc/?username=soumyadip07&label=Profile%20views&color
 - 💬 Ask me about **Data Visualization,EDA, Machine Learning**
 
 - 📫 How to reach me **soumyadiptikader@gmail.com**
-
+- 📈 [My Data Visualization Projects](https://github.com/Soumyadip07/Power-BI)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a
