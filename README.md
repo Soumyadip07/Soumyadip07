@@ -8,13 +8,13 @@ Insights</h3>
 src="https://komarev.com/ghpvc/?username=soumyadip07&label=Profile%20views&color=0e75b6&style=flat"
  alt="soumyadip07" /> </p>
 
-- 🔭 I’m currently working on **Road Damge Detection and Classification using Deep Learning Algorithms**
+- 🔭 I’m currently working on **Numerology AI project using GENAI concepts**
 
 - 🌱 I’m currently learning **Deep Learning, Image Classification, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soumyadip07](https://github.com/Soumyadip07)
 
-- 💬 Ask me about **Data Visualization,EDA, Machine Learning**
+- 💬 Ask me about **Data Visualization, EDA, Data Engineering, Feature Selection, Machine Learning**
 
 - 📫 How to reach me **soumyadiptikader@gmail.com**
 - 📈 My Data Visualization Projects: [Power BI](https://github.com/Soumyadip07/Power-BI), [Tableau](https://github.com/Soumyadip07/tableau-works)
